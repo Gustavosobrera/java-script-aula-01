@@ -33,7 +33,7 @@ var  genero = "bmw"
      console.log (email)
      console.log (telefone)
      console.log (genero) 
-     console.log ("=======================================================")  
+     ("=======================================================")  
 
 var  maior_de_idade = "false"
  console.log (maior_de_idade)
